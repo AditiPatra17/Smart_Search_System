@@ -1,0 +1,142 @@
+{
+  "Latest Free Courses": [
+    {
+      "Title": "Framework to Choose the Right LLM for your Business",
+      "Lessons": 6,
+      "Type": "Free"
+    },
+    {
+      "Title": "Improving Real World RAG Systems: Key Challenges & Practical Solutions",
+      "Lessons": 12,
+      "Type": "Free"
+    },
+    {
+      "Title": "Building Smarter LLMs with Mamba and State Space Model",
+      "Lessons": 14,
+      "Type": "Free"
+    }
+  ],
+  "Free Generative AI Courses": [
+    {
+      "Title": "Generative AI - A Way of Life - Free Course",
+      "Lessons": 31,
+      "Type": "Free"
+    },
+    {
+      "Title": "Getting Started with Large Language Models",
+      "Lessons": 18,
+      "Type": "Free"
+    },
+    {
+      "Title": "Building LLM Applications using Prompt Engineering - Free Course",
+      "Lessons": 18,
+      "Type": "Free"
+    },
+    {
+      "Title": "MidJourney: From Inspiration to Implementation - Free Course",
+      "Lessons": 5,
+      "Type": "Free"
+    },
+    {
+      "Title": "Building Your first RAG System using LlamaIndex - Free Course",
+      "Lessons": 12,
+      "Type": "Free"
+    },
+    {
+      "Title": "Exploring Stability.AI - Free Course",
+      "Lessons": 7,
+      "Type": "Free"
+    }
+  ],
+  "Free Machine Learning/Deep Learning Courses": [
+    {
+      "Title": "Introduction to AI & ML",
+      "Lessons": 17,
+      "Type": "Free"
+    },
+    {
+      "Title": "Introduction to Python",
+      "Lessons": 69,
+      "Type": "Free"
+    },
+    {
+      "Title": "Machine Learning Certification Course for Beginners",
+      "Lessons": 261,
+      "Type": "Free"
+    },
+    {
+      "Title": "The Working of Neural Networks - Free Course",
+      "Lessons": 11,
+      "Type": "Free"
+    },
+    {
+      "Title": "Understanding Linear Regression - Free Course",
+      "Lessons": 10,
+      "Type": "Free"
+    },
+    {
+      "Title": "Building a Text Classification Model with Natural Language Processing - Free Course",
+      "Lessons": 16,
+      "Type": "Free"
+    },
+    {
+      "Title": "The A to Z of Unsupervised ML - Free Course",
+      "Lessons": 13,
+      "Type": "Free"
+    },
+    {
+      "Title": "Bagging and Boosting ML Algorithms - Free Course",
+      "Lessons": 16,
+      "Type": "Free"
+    },
+    {
+      "Title": "Data Preprocessing on a Real-World Problem Statement - Free Course",
+      "Lessons": 13,
+      "Type": "Free"
+    }
+  ],
+  "Free Business Analytics Courses": [
+    {
+      "Title": "Introduction to Business Analytics",
+      "Lessons": 33,
+      "Type": "Free"
+    },
+    {
+      "Title": "Microsoft Excel: Formulas & Functions",
+      "Lessons": 33,
+      "Type": "Free"
+    },
+    {
+      "Title": "Tableau for Beginners",
+      "Lessons": 17,
+      "Type": "Free"
+    }
+  ],
+  "Free Project Based Courses": [
+    {
+      "Title": "Loan Prediction Practice Problem (Using Python)",
+      "Lessons": 16,
+      "Type": "Free"
+    },
+    {
+      "Title": "Twitter Sentiment Analysis",
+      "Lessons": 18,
+      "Type": "Free"
+    },
+    {
+      "Title": "Introduction to Web Scraping using Python",
+      "Lessons": 13,
+      "Type": "Free"
+    },
+    {
+      "Title": "Big Mart Sales Prediction Using R",
+      "Lessons": 19,
+      "Type": "Free"
+    },
+    {
+      "Title": "Time Series Forecasting using Python",
+      "Lessons": 22,
+      "Type": "Free"
+    }
+  ]
+}
