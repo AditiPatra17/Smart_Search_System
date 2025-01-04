@@ -1,6 +1,8 @@
 # Smart_Search_System
 Efficient course search system with embeddings.
 
+App: https://huggingface.co/spaces/AditiPatra17/Smart_Search_System
+
 Smart Search System
 
 The Smart Search System leverages advanced search techniques to efficiently handle queries and return relevant results. The system is powered by LangChain (or LlamaIndex) for optimized data handling and search query processing. The tool is deployed as a web application using Streamlit, offering an interactive and user-friendly interface for users to input queries and receive personalized results from a database of courses and resources.
